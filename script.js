@@ -3,22 +3,22 @@ const skillsData = {
   cpp: {
     title: 'C++ & Lógica de Programação',
     hasProject: true,
-    projectLabel: 'ver simulador de empréstimos',
-    projectUrl: 'https://erikalps.github.io/simulador_de_emprestimos/',
+    projectLabel: 'ver meu perfil no codeForces',
+    projectUrl: 'https://codeforces.com/profile/Erikalps/',
     text: 'Minha linguagem principal. Resolvi mais de 300 problemas com foco em algoritmos, estruturas de dados e lógica de programação. É a base que sustenta todo o meu raciocínio computacional.'
   },
   html: {
     title: 'HTML & CSS',
     hasProject: true,
-    projectLabel: 'ver Lucky Shrub',
-    projectUrl: 'https://erikalps.github.io/Projeto-curseira-/',
+    projectLabel: 'ver Imune web',
+    projectUrl: 'https://github.com/erikalps/ImuniWeb',
     text: 'Domínio em marcação semântica e estilização responsiva. Certificado pelo freeCodeCamp. Desenvolvi múltiplos projetos práticos com layouts responsivos e boas práticas de acessibilidade.'
   },
   js: {
     title: 'JavaScript',
     hasProject: true,
     projectLabel: 'ver Favorite movies',
-    projectUrl: 'https://github.com/erikalps/favorites_movies',
+    projectUrl: 'https://favorites-movies-erikalps.vercel.app/',
     text: 'Em desenvolvimento ativo. Já utilizo para consumo de APIs externas, manipulação do DOM e lógica client-side. Atualmente aprofundando meus conhecimentos em um curso dedicado.'
   },
   sql: {
